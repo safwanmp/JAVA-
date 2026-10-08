@@ -1,2 +1,0 @@
-Hello from Java file input.
-This file was created for FileInputStreamExample.
